@@ -1,0 +1,4 @@
+DermNet 데이터
+https://www.kaggle.com/datasets/shubhamgoel27/dermnet
+AI Hub 데이터 
+https://aihub.or.kr/aihubdata/data/view.do?srchOptnCnd=OPTNCND001&currMenu=115&top[…]%BC%EB%B6%80%EC%A7%88%ED%99%98&aihubDataSe=data&dataSetSn=71863

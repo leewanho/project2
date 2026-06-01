@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / Model artifacts (학습 산출물 - 재현 가능)
+*.pth
+*.pkl
+*.h5
+*.ckpt
+models/
+checkpoints/
+
+# Logs
+*.log
+runs/
+wandb/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 대용량 데이터 (별도 보관)
+archive*.zip
